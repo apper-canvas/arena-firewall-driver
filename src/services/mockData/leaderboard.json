@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "playerId": 1,
+    "gameId": 1,
+    "score": 2847563,
+    "rank": 1,
+    "rankChange": 1,
+    "achievements": ["Master Explorer", "Legendary Hunter", "Perfect Score"]
+  },
+  {
+    "Id": 2,
+    "playerId": 2,
+    "gameId": 1,
+    "score": 2785432,
+    "rank": 2,
+    "rankChange": -1,
+    "achievements": ["Speed Runner", "Collector", "Combat Master"]
+  },
+  {
+    "Id": 3,
+    "playerId": 3,
+    "gameId": 2,
+    "score": 2654321,
+    "rank": 3,
+    "rankChange": 0,
+    "achievements": ["Web Slinger", "City Protector", "Photo Mode Pro"]
+  },
+  {
+    "Id": 4,
+    "playerId": 4,
+    "gameId": 2,
+    "score": 2543210,
+    "rank": 4,
+    "rankChange": 1,
+    "achievements": ["Stealth Master", "Combo King", "Challenge Complete"]
+  },
+  {
+    "Id": 5,
+    "playerId": 5,
+    "gameId": 3,
+    "score": 2432109,
+    "rank": 5,
+    "rankChange": -1,
+    "achievements": ["God Slayer", "Runic Master", "Completionist"]
+  }
+]

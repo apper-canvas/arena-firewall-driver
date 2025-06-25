@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "username": "CyberNinja_X",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&h=100&fit=crop&crop=face",
+    "level": 87,
+    "totalScore": 2847563,
+    "rank": 1,
+    "previousRank": 2,
+    "trophies": {
+      "platinum": 12,
+      "gold": 45,
+      "silver": 89,
+      "bronze": 156
+    },
+    "lastActive": "2024-01-15T14:30:00Z"
+  },
+  {
+    "Id": 2,
+    "username": "QuantumGamer",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+    "level": 92,
+    "totalScore": 2785432,
+    "rank": 2,
+    "previousRank": 1,
+    "trophies": {
+      "platinum": 15,
+      "gold": 52,
+      "silver": 78,
+      "bronze": 134
+    },
+    "lastActive": "2024-01-15T13:45:00Z"
+  },
+  {
+    "Id": 3,
+    "username": "NeonStrike",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b550?w=100&h=100&fit=crop&crop=face",
+    "level": 79,
+    "totalScore": 2654321,
+    "rank": 3,
+    "previousRank": 3,
+    "trophies": {
+      "platinum": 9,
+      "gold": 38,
+      "silver": 67,
+      "bronze": 145
+    },
+    "lastActive": "2024-01-15T12:20:00Z"
+  },
+  {
+    "Id": 4,
+    "username": "VoidHunter",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+    "level": 84,
+    "totalScore": 2543210,
+    "rank": 4,
+    "previousRank": 5,
+    "trophies": {
+      "platinum": 11,
+      "gold": 41,
+      "silver": 73,
+      "bronze": 128
+    },
+    "lastActive": "2024-01-15T11:15:00Z"
+  },
+  {
+    "Id": 5,
+    "username": "PixelPhantom",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
+    "level": 76,
+    "totalScore": 2432109,
+    "rank": 5,
+    "previousRank": 4,
+    "trophies": {
+      "platinum": 8,
+      "gold": 35,
+      "silver": 61,
+      "bronze": 112
+    },
+    "lastActive": "2024-01-15T10:30:00Z"
+  }
+]
